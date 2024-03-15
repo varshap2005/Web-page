@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Non-Profit Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444444;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Local Non-Profit Organization</h1>
+    </header>
+    <nav>
+        <a href="#mission">Mission</a>
+        <a href="#programs">Programs</a>
+        <a href="#events">Events</a>
+    </nav>
+    <section id="mission">
+        <h2>Mission</h2>
+        <p>Insert organization's mission statement here.</p>
+    </section>
+    <section id="programs">
+        <h2>Programs</h2>
+        <ul>
+            <li>Program 1</li>
+            <li>Program 2</li>
+            <li>Program 3</li>
+
+        </ul>
+    </section>
+    <section id="events">
+        <h2>Events</h2>
+        <ul>
+            <li>Event 1 - Date & Time</li>
+            <li>Event 2 - Date & Time</li>
+            <li>Event 3 - Date & Time</li>
+
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Local Non-Profit Organization. All rights reserved.</p>
+    </footer>
+</body>
+</html>
